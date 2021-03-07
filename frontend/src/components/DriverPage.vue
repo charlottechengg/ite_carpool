@@ -91,6 +91,10 @@ export default {
         }
     },
 
+    mounted() {
+    this.geolocate();
+    },
+
     methods: {
         setPlace(place){
           this.currPlace = place;
@@ -121,7 +125,6 @@ export default {
                 this.currDestination = null;
                 
             }
-            }
                 
         },
 
@@ -140,11 +143,9 @@ export default {
         this.markers.push({ position: marker});
       });
 
-    },
+      },
 
-    mounted() {
-    this.geolocate();
-  },
+    }
 
 }
 </script>
