@@ -1,8 +1,10 @@
 # poolit
 A carpool app that is meant for free ride-sharing experience.
+https://poolit.netlify.app/#/
+
 
 ## Project
-To run this project, clone and cd to /frontend. Then run the following commands on your terminal.
+To build this project, clone and cd to /frontend. Then run the following commands on your terminal.
 
 ## Project setup
 ```
