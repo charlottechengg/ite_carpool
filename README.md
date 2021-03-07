@@ -1,5 +1,5 @@
 # poolit
-A carpool app that is meant for free ride-sharing experience. Deployed using netlify on https://poolit.netlify.app/#/.
+A carpooling app that is meant for a free ride-sharing experience. Deployed using netlify on https://poolit.netlify.app/#/.
 
 
 ## Project
