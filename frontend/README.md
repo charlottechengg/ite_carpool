@@ -1,4 +1,4 @@
-# karlpol
+# poolit
 
 ## Project setup
 ```
